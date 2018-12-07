@@ -1,2 +1,2 @@
 # webstudy
-personal project for wed development
+personal project for web development
